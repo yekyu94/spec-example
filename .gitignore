@@ -1,0 +1,8 @@
+# OS
+.DS_Store
+
+# Transient Playwright MCP logs/snapshots
+.playwright-mcp/
+
+# Local-only Claude Code settings
+.claude/settings.local.json
